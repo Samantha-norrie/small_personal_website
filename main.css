@@ -1,0 +1,52 @@
+.full{
+    background-color:WhiteSmoke;
+}
+
+.intro{
+    background-color: Pink; 
+}
+
+.name{
+    font-family: Arial;
+    color: WhiteSmoke;
+    text-align: center;
+}
+
+.career-info{
+    font-family: Arial;
+    font-style: italic;
+    color: WhiteSmoke;
+    text-align: center;   
+}
+
+.github{
+    font-family: Otto, Arial;
+    font-style: italic;
+    background-color: Salmon;
+    text-align: center;  
+}
+
+.linkedin{
+    font-family: Otto, Arial;
+    font-style: italic;
+    background-color: DarkSalmon;
+    text-align: center;
+    margin: 2rem;
+}
+
+.instagram{
+    font-family: Otto, Arial;
+    font-style: italic;
+    background-color: LightSalmon;
+    text-align: center;
+}
+
+.paragraph{
+    font-family: cursive, Verdana;
+    background-color: palevioletred;
+    color:  whitesmoke;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    padding: 20px;
+}
